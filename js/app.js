@@ -60,8 +60,6 @@ function init() {
     activePlayer = 0;
     state = true;
     $('.dice').style.display = 'none';
-    $('.player-name-0').textContent = 'PLAYER-1';
-	$('.player-name-1').textContent = 'PLAYER-2';
     $('.total-score-0').textContent = '0';
     $('.total-score-1').textContent = '0';
     $('.current-score-0').textContent = '0';
